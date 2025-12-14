@@ -1,0 +1,32 @@
+{
+  "name": "MyPortfolio",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/icon": "2.1.0",
+    "@outloud/css": "^2.0.5",
+    "@tresjs/cientos": "^5.1.1",
+    "@tresjs/core": "^5.1.1",
+    "@tresjs/nuxt": "^5.1.1",
+    "gsap": "^3.13.0",
+    "nuxt": "^4.2.1",
+    "three": "^0.181.2",
+    "vue": "3.5.25",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/three": "^0.181.0",
+    "@unocss/nuxt": "^66.5.9",
+    "sass": "^1.94.2",
+    "typescript": "^5.9.3",
+    "unocss": "^66.5.9",
+    "vue-tsc": "^3.1.5"
+  }
+}
